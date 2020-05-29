@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* The . was removed to apply directly to the header tag instead of class */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,7 +16,7 @@ header {
     color: #ffffff;
 }
 
-/* This was changed to just h1 tag because it is the only instance of h1 */
+
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -26,7 +26,7 @@ h1 {
     color: #d9dcd6;
 }
 
-/* This was changed to nav, as the tag in the html file was also changed to nav */
+
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,12 +35,12 @@ nav {
     font-size: 20px;
 }
 
-/* This was changed to just ul since it is the only list on the page */
+
 ul {
     list-style-type: none;
 }
 
-/* This was changed to just li since they are the only list items on the page */
+
 li {
     display: inline-block;
     margin-left: 25px;
@@ -196,7 +196,7 @@ main {
     font-size: 36px;
 }
 
-/*this was changed from effecting a class to a tag, because it was redundant the way it was written*/
+
 footer {
     padding: 30px;
     clear: both;
@@ -204,7 +204,7 @@ footer {
     text-align: center;
 }
 
-/*changed from .footer to footer to be able to remove an unecessary class*/
+
 footer h2 {
     font-size: 20px;
 }
